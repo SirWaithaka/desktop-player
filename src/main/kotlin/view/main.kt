@@ -1,7 +1,9 @@
+package view
+
 import androidx.compose.desktop.Window
 import com.arkivanov.decompose.extensions.compose.jetbrains.rememberRootComponent
 import ui.DesktopTheme
-import ui.NavHostComponent
+import navigation.NavHostComponent
 
 
 /**
