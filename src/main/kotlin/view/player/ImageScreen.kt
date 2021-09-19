@@ -12,7 +12,7 @@ import androidx.compose.ui.unit.dp
 @Composable
 fun ImageScreen() {
     Image(
-        imageFromResource("adel.jpeg"),
+        imageFromResource("adele.jpeg"),
         contentDescription = "image",
         modifier = Modifier.size(75.dp).padding(8.dp),
         contentScale = ContentScale.Crop
